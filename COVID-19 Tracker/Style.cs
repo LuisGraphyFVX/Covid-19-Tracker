@@ -77,14 +77,5 @@ namespace COVID_19_Tracker
                 return text.PadRight(width - (width - text.Length) / 2).PadLeft(width);
             }
         }
-
-        public static string Parse(string source, string left, string right)
-        {
-            string pattern = ((left == "") ? "^" : Regex.Escape(left)) + "(.+?)" + ((right == "") ? "$" : Regex.Escape(right));
-
-            string text = Regex.Match(source, pattern).Groups[1].Value;
-
-            return text;
-        }
     }
 }
