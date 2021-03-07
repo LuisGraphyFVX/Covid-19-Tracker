@@ -107,7 +107,7 @@ namespace COVID_19_Tracker
 
             Console.Clear();
 
-            Console.Title = "COVID-19 Tracker · Coder: LEV_ · Search Country: " + CountryCode;
+            Console.Title = "COVID-19 Tracker · Search Country: " + CountryCode;
 
             await Task.Run(async () =>
             {
