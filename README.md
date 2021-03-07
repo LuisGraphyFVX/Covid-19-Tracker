@@ -10,3 +10,8 @@
 - https://t.me/LuisGraphyFVX | LuisGraphyFVX#9181
 
 - If you want to improve the project, just pull request 😃
+
+### Screenshots:
+<img src="https://i.imgur.com/8BzquSb.png" alt="Menu" width="600px"/>
+<img src="https://i.imgur.com/ErhnRVB.png" alt="Menu" width="600px"/>
+<img src="https://i.imgur.com/jW5nTd4.png" alt="Menu" width="600px"/>
