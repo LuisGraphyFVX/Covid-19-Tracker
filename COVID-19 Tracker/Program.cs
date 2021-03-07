@@ -7,7 +7,7 @@ namespace COVID_19_Tracker
     {
         public static async Task Main()
         {
-            Console.Title = "COVID-19 Tracker · Coder: LEV_";
+            Console.Title = "COVID-19 Tracker";
 
             await Ascii();
 
@@ -23,7 +23,7 @@ namespace COVID_19_Tracker
             {
                 case "1":
                     Console.Clear();
-                    Console.Title = "COVID-19 Tracker · Coder: LEV_ · All Countrys";
+                    Console.Title = "COVID-19 Tracker · All Countrys";
                     await Ascii();
 
                     WriteConsole("The update time is in seconds not milliseconds · Example: 1 or 2 (seconds)\n\n", "Tip", ConsoleColor.Green);
@@ -37,7 +37,7 @@ namespace COVID_19_Tracker
                     break;
                 case "2":
                     Console.Clear();
-                    Console.Title = "COVID-19 Tracker · Coder: LEV_ · Search Country";
+                    Console.Title = "COVID-19 Tracker · Search Country";
                     await Ascii();
 
                     WriteConsole("The update time is in seconds not milliseconds · Example: 1 or 2 (seconds)\n\n", "Tip", ConsoleColor.Green);
