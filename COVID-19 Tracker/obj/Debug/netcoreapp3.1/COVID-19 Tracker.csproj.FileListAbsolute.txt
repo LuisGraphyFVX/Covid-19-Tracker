@@ -1,0 +1,13 @@
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\bin\Debug\netcoreapp3.1\COVID-19 Tracker.exe
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\bin\Debug\netcoreapp3.1\COVID-19 Tracker.deps.json
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\bin\Debug\netcoreapp3.1\COVID-19 Tracker.runtimeconfig.json
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\bin\Debug\netcoreapp3.1\COVID-19 Tracker.runtimeconfig.dev.json
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\bin\Debug\netcoreapp3.1\COVID-19 Tracker.dll
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\bin\Debug\netcoreapp3.1\COVID-19 Tracker.pdb
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\obj\Debug\netcoreapp3.1\COVID-19 Tracker.csprojAssemblyReference.cache
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\obj\Debug\netcoreapp3.1\COVID-19 Tracker.AssemblyInfoInputs.cache
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\obj\Debug\netcoreapp3.1\COVID-19 Tracker.AssemblyInfo.cs
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\obj\Debug\netcoreapp3.1\COVID-19 Tracker.csproj.CoreCompileInputs.cache
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\obj\Debug\netcoreapp3.1\COVID-19 Tracker.dll
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\obj\Debug\netcoreapp3.1\COVID-19 Tracker.pdb
+C:\Users\LuisGraphyFVX\source\repos\COVID-19 Tracker\obj\Debug\netcoreapp3.1\COVID-19 Tracker.genruntimeconfig.cache
