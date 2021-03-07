@@ -1,4 +1,4 @@
-# Covid-19 Tracker 🌎 | [Release](https://github.com/)
+# Covid-19 Tracker 🌎 | [Release](https://github.com/LuisGraphyFVX/Covid-19-Tracker/releases/tag/1.0)
 
 ### Characteristics::
 - Displays statistics for all countries 🌎
